@@ -1,9 +1,10 @@
 # sammi
 
-my personal repository
+### my personal repository
 
-### About Me
-18 years old | cs student 
+## about Me
+
+# 19 years old | cs student 
 <!-- wehh
 
 
